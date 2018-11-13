@@ -1,0 +1,18 @@
+body{
+    background:grey
+}
+.mytr{
+    background:springgreen
+}
+.abc{
+    background:red
+}
+.Mytitle{
+    margin-left:100px;
+    
+}
+.myDiv{
+    border:1px solid black;
+    background-color:red;
+    width:500px;
+}
